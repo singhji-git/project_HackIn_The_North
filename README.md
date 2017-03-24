@@ -1,3 +1,2 @@
-#HackInTheNorth
-
+In India,still a large section of our society is deprived of the basic needs of daily life i.e food,clothes,money,books etc.So, through this project, we are building a platform where the donors can directly communicate with the NGOs working in this field to donate their food,money,clothes etc.As there is a large amount of food wastage in parties,mess etc,so they can easily contact the nearest woring NGO through this and NGO will recieve it from them.
 <a href="https://heroku.com/deploy" target="_blank"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
