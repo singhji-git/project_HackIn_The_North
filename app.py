@@ -30,10 +30,6 @@ def webhook():
 def makeWebhookResult(req):
     if req.get("result").get("action") != "no.item":
         return {}
-    result = req.get("result")
-    parameters = result.get("parameters")
-    
-
     
 
     speech = "hey our Ngos will be contacting you soon."
