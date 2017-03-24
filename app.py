@@ -28,7 +28,7 @@ def webhook():
     return r
 
 def makeWebhookResult(req):
-    if req.get("result").get("action") != "no.item" and req.get("result").get("action") != "cloth.don":
+    if req.get("result").get("action") != "no.item" and req.get("result").get("action") != "cloth.don" and req.get("result").get("action") !="donate.books":
         return {}
     
     result = req.get("result")
